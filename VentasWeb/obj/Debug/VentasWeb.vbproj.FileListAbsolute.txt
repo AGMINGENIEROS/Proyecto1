@@ -1,0 +1,8 @@
+D:\AGM INGENIEROS\wwwroot\VentasWeb\VentasWeb\bin\VentasWeb.dll
+D:\AGM INGENIEROS\wwwroot\VentasWeb\VentasWeb\bin\VentasWeb.pdb
+D:\AGM INGENIEROS\wwwroot\VentasWeb\VentasWeb\bin\VentasWeb.xml
+D:\AGM INGENIEROS\wwwroot\VentasWeb\VentasWeb\obj\Debug\VentasWeb.Resources.resources
+D:\AGM INGENIEROS\wwwroot\VentasWeb\VentasWeb\obj\Debug\VentasWeb.vbproj.GenerateResource.Cache
+D:\AGM INGENIEROS\wwwroot\VentasWeb\VentasWeb\obj\Debug\VentasWeb.dll
+D:\AGM INGENIEROS\wwwroot\VentasWeb\VentasWeb\obj\Debug\VentasWeb.xml
+D:\AGM INGENIEROS\wwwroot\VentasWeb\VentasWeb\obj\Debug\VentasWeb.pdb
